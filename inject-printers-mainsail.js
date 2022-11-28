@@ -1,1 +1,1 @@
-localStorage.setItem("printers", '[{"hostname":"10.69.70.92","port":"7126"},{"hostname":"10.69.70.92","port":7125}]');
+localStorage.setItem("printers", '[{"hostname":"https://monoprice.illinoistechrobotics.org/monopricei3","port":"443"},{"hostname":"https://monoprice.illinoistechrobotics.org/cr10mini","port":443}]');
