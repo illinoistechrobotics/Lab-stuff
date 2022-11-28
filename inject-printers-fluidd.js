@@ -1,0 +1,1 @@
+[{"apiUrl":"https://monopricei3.api.illinoistechrobotics.org","socketUrl":"wss://monopricei3.api.illinoistechrobotics.org/websocket","active":true,"name":"fluidd"},{"apiUrl":"https://cr10mini.api.illinoistechrobotics.org","socketUrl":"wss://cr10mini.api.illinoistechrobotics.org/websocket","active":false,"name":"fluidd"}]
